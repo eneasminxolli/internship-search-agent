@@ -1,0 +1,21 @@
+URL: https://example.com/jobs/data-analytics-intern
+Firma: Example Analytics GmbH
+Titel: Data Analytics Intern (m/w/d) – Summer 2027
+Ort: Berlin
+Gefunden am: 2026-11-18 (Quelle: Beispiel)
+---
+Example Analytics is a fictional Berlin scale-up building forecasting tools for e-commerce.
+
+Your tasks:
+- Build and maintain SQL pipelines and dashboards for our customer success team
+- Develop a first churn prediction model in Python together with our data scientists
+- Present your findings to product managers every two weeks
+
+Your profile:
+- Student in business analytics, computer science, economics or similar
+- Good knowledge of SQL and Python, first experience with machine learning
+- Fluent English, German is a plus
+
+What we offer:
+- Paid internship (1,800 EUR/month), 3 months, start June 2027
+- Hybrid work in Berlin, mentoring by a senior data scientist

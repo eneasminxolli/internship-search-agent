@@ -1,0 +1,23 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Personal data (postings, scores, test sets, applications, dashboard)
+anzeigen/
+ergebnisse/
+testset/
+bewerbungen/
+Bewerbungsunterlagen/
+dashboard.html
+
+# Backups and old files
+_backup_*/
+_to_delete/
+bewerten_schritt2_alt.py
